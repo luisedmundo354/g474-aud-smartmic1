@@ -1,4 +1,4 @@
-## __SMARTMIC1 application__
+## __SMARTMIC1 application port for STM32G474RE BOARD__
 
 SMARTMIC1 provides a firmware running on STM32 which acquires audio signals 
 using four digital MEMS microphones, elaborates them by means of embedded DSP 
